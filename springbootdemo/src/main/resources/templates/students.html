@@ -26,7 +26,7 @@
         </tr>
         </thead>
         <tbody>
-        <!-- F-grade students -->
+
         <tr th:each="student : ${students}" th:if="${student.mark == 'F'}">
             <td th:text="${student.name}" style="color:red; font-weight:bold;"></td>
             <td th:text="${student.surname}" style="color:red; font-weight:bold;"></td>
@@ -34,7 +34,7 @@
             <td th:text="${student.mark}" style="color:red; font-weight:bold;"></td>
         </tr>
 
-        <!-- Normal students -->
+
         <tr th:each="student : ${students}" th:unless="${student.mark == 'F'}">
             <td th:text="${student.name}"></td>
             <td th:text="${student.surname}"></td>

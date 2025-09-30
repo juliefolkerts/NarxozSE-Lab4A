@@ -4,34 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fcddfe0-942a-4b54-9591-34a54262ef36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/IdeaProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/demo.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project04B/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project04B/demo/src/main/java/kz/lab42/springboot/springbootdemo/controllers/TaskController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project04B/demo/src/main/java/kz/lab42/springboot/springbootdemo/models/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project04B/demo/src/main/java/kz/lab42/springboot/springbootdemo/services/TaskService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project04B/demo/src/main/resources/templates/add-task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project04B/demo/src/main/resources/templates/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project04B/demo/src/main/resources/templates/task-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project04B/demo/src/main/resources/templates/tasks.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../demo/src/main/main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../demo/src/test/test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab1/Lab01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab1/out/production/Lab01/Lab01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../src/SE.iml" afterDir="false" />
-    </list>
+    <list default="true" id="5fcddfe0-942a-4b54-9591-34a54262ef36" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "juliefolkerts"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/juliefolkerts/SE-Lab4A.git",
+    "accountId": "0d48acb5-6b2d-4c43-ac14-905f941efc4b"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="33OyI5eE8C0pzibcojYIyPDnacx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,7 +38,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "master",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/00Narxoz/SE/IdeaProjects/Project04A",
@@ -75,6 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1759202330787</updated>
       <workItem from="1759202335366" duration="1490000" />
+      <workItem from="1759208582794" duration="419000" />
     </task>
     <servers />
   </component>
