@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fcddfe0-942a-4b54-9591-34a54262ef36" name="Changes" comment="Lab4 task 1" />
+    <list default="true" id="5fcddfe0-942a-4b54-9591-34a54262ef36" name="Changes" comment="Lab4 task 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/springbootdemo" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -72,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1759202330787</updated>
       <workItem from="1759202335366" duration="1490000" />
-      <workItem from="1759208582794" duration="825000" />
+      <workItem from="1759208582794" duration="1125000" />
     </task>
     <task id="LOCAL-00001" summary="Lab4 task 1">
       <option name="closed" value="true" />
