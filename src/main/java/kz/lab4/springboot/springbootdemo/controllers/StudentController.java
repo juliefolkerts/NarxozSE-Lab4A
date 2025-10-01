@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 public class StudentController {
     private final StudentService studentService;
 
-    //because addStudentMark is not static:
+    //omdat addStudentMark niet static is:
     public StudentController(StudentService studentService) {
         this.studentService = studentService;
     }
@@ -21,7 +21,7 @@ public class StudentController {
     @GetMapping("/")
     public String listStudents(Model model) {
         model.addAttribute("students", studentService.getAllStudents());
-        return "students"; //html file
+        return "students";
     }
 
     @GetMapping("/add")
@@ -43,7 +43,7 @@ public class StudentController {
 
 
 
-        return "redirect:/"; //to go back to list after adding
+        return "redirect:/"; //terug naar vorige pagina, lijst dus
 
     }
 }
