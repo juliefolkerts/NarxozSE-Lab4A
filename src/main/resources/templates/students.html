@@ -19,6 +19,7 @@
     <table class="table table-bordered table-hover">
         <thead class="table-dark">
         <tr>
+            <th>ID</th>
             <th>Name</th>
             <th>Surname</th>
             <th>Exam</th>
@@ -28,6 +29,7 @@
         <tbody>
 
         <tr th:each="student : ${students}" th:if="${student.mark == 'F'}">
+            <td th:text="${student.id}" style="color: red; font-weight:bold;"></td>
             <td th:text="${student.name}" style="color:red; font-weight:bold;"></td>
             <td th:text="${student.surname}" style="color:red; font-weight:bold;"></td>
             <td th:text="${student.exam}" style="color:red; font-weight:bold;"></td>
@@ -36,6 +38,7 @@
 
 
         <tr th:each="student : ${students}" th:unless="${student.mark == 'F'}">
+            <td th:text="${student.id}"></td>
             <td th:text="${student.name}"></td>
             <td th:text="${student.surname}"></td>
             <td th:text="${student.exam}"></td>

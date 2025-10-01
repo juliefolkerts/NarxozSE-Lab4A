@@ -4,60 +4,84 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fcddfe0-942a-4b54-9591-34a54262ef36" name="Changes" comment="Lab4 task 1">
+    <list default="true" id="b3275baf-60dc-480d-8525-57758cee82b6" name="Changes" comment="Lab 4 Task 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kz/lab4/springboot/springbootdemo/services/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kz/lab4/springboot/springbootdemo/services/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/students.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/students.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project04B/demo/src/main/java/kz/lab42/springboot/springbootdemo/controllers/TaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project04B/demo/src/main/java/kz/lab42/springboot/springbootdemo/controllers/TaskController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project04B/demo/src/main/java/kz/lab42/springboot/springbootdemo/services/TaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project04B/demo/src/main/java/kz/lab42/springboot/springbootdemo/services/TaskService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project04B/demo/src/main/resources/templates/add-task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project04B/demo/src/main/resources/templates/add-task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project04B/demo/src/main/resources/templates/task-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project04B/demo/src/main/resources/templates/task-details.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/springbootdemo" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "juliefolkerts"
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;juliefolkerts&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/juliefolkerts/SE-Lab4A.git",
-    "accountId": "0d48acb5-6b2d-4c43-ac14-905f941efc4b"
-  }
-}]]></component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
 }</component>
-  <component name="ProjectId" id="33OyI5eE8C0pzibcojYIyPDnacx" />
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/juliefolkerts/SE-Lab4A.git&quot;,
+    &quot;accountId&quot;: &quot;0d48acb5-6b2d-4c43-ac14-905f941efc4b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="33P1ZxgAk7GeyJ8TOIDlBAcQiuK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Gradle.Build springbootdemo.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.SpringbootdemoApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/00Narxoz/SE/IdeaProjects/Project04A",
+    "last_opened_file_path": "D:/00Narxoz/SE/IdeaProjects/Project04A/springbootdemo/build.gradle",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="SpringbootdemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springbootdemo.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kz.lab4.springboot.springbootdemo.SpringbootdemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,30 +92,62 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5fcddfe0-942a-4b54-9591-34a54262ef36" name="Changes" comment="" />
-      <created>1759202330787</created>
+      <changelist id="b3275baf-60dc-480d-8525-57758cee82b6" name="Changes" comment="" />
+      <created>1759203952838</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1759202330787</updated>
-      <workItem from="1759202335366" duration="1490000" />
-      <workItem from="1759208582794" duration="1326000" />
+      <updated>1759203952838</updated>
+      <workItem from="1759203956147" duration="3456000" />
+      <workItem from="1759209447355" duration="8838000" />
     </task>
-    <task id="LOCAL-00001" summary="Lab4 task 1">
+    <task id="LOCAL-00001" summary="Lab 4 Task 1">
       <option name="closed" value="true" />
-      <created>1759209271618</created>
+      <created>1759205845841</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1759209271618</updated>
+      <updated>1759205845841</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lab 4 Task 1">
+      <option name="closed" value="true" />
+      <created>1759209810735</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759209810735</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lab 4 Task 1">
+      <option name="closed" value="true" />
+      <created>1759209914074</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759209914074</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lab 4 Task 1">
+      <option name="closed" value="true" />
+      <created>1759210121333</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759210121333</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lab 4 Task 1">
+      <option name="closed" value="true" />
+      <created>1759300959582</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759300959582</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lab4 task 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab4 task 1" />
+    <MESSAGE value="Lab 4 Task 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 4 Task 1" />
   </component>
 </project>

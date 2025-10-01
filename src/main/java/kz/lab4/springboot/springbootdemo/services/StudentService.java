@@ -11,11 +11,14 @@ import java.util.List;
 public class StudentService {
     private final List<Student> students = new ArrayList<>();
 
+    private long idCounter = 1;
+
     public List<Student> getAllStudents() {
         return students;
     }
 
     public void addStudent(Student student) {
+        student.setId(idCounter++);
         student.setMark(calculateMark(student.getExam()));
 
         students.add(student);
